@@ -48,3 +48,4 @@ while True:
 ![image](https://github.com/user-attachments/assets/8c16dec8-a049-484f-9bf2-47c71a472a66)
 
 <H3> Result:</H3>
+Thus, The implementation of speech recognition is executed successfully.
